@@ -1,0 +1,227 @@
+Rachunkowoœæ jest najstarszym , œciœle ukszta³towanym i sprawdzonym systemem ewidencji gospodarczej oraz przetwarzania danych liczbowych dotycz¹cych szeroko pojêtej dzia³alnoœci podmiotów gospodarczych. Ma ona wytyczony podstawowy cel, którym jest dostarczenie prawdziwego i rzetelnego obrazu sytuacji maj¹tkowej i finansowej podmiotu gospodarczego.
+
+         Do bie¿¹cej ewidencji operacji gospodarczych mog¹ s³u¿yæ specjalne tabele, których kolumny oznaczaj¹ identyfikatory operacji gospodarczych, zaœ wiersze – chronologicznie zapisane kolejne operacje. W rachunkowoœci takie tabele nosz¹ nazwê konta ksiêgowego. Konto ksiêgowe jest urz¹dzeniem ksiêgowym s³u¿¹cym do grupowania jednorodnych operacji gospodarczych w celu odzwierciedlenia stanu i zmian okreœlonego sk³adnika aktywów, pasywów lub wyników (kosztów, przychodów, strat i zysków nadzwyczajnych). Ka¿de konto ma swoj¹ nazwê dostosowan¹ do istoty ujmowanych na nim sk³adników lub zjawisk gospodarczych. Zapisy na kontach dokonywane s¹ najczêœciej w mierniku pieniê¿nym. W praktyce ka¿de konto ksiêgowe posiada symbol cyfrowy , u³atwiaj¹cy jego identyfikacjê. Konto ma dwie przeciwstawne strony:
+
+-          stronê lew¹ nazywan¹ „Winien”(Wn) lub z ³aciny „Debet”(Dt)
+
+-          stronê praw¹ okreœlan¹ jako „Ma” lub „Credit”(Ct)
+
+ 
+
+Konto ksiêgowe zawiera nastêpuj¹ce elementy:
+
+   1. symbol i nazwê konta
+   2. dwie przeciwstawne czêœci (strony) konta
+   3. saldo pocz¹tkowe (debetowe lub kredytowe)
+   4. zapisy operacji gospodarczych (obroty debetowe lub kredytowe)
+   5. saldo koñcowe
+
+ 
+
+Etapy funkcjonowania konta ksiêgowego obejmuj¹ nastêpuj¹ce czynnoœci:
+
+   1. za³o¿enie konta – wpisanie jego nazwy oraz symbolu cyfrowego z planu kont. Nazwa okreœla jego treœæ ekonomiczn¹
+   2. otwarcie konta – zaksiêgowanie stanu pocz¹tkowego z bilansu otwarcia, a je¿eli dany sk³adnik nie wystêpuje w bilansie otwarcia, to zaksiêgowanie pierwszej zwi¹zanej z nim operacji gospodarczej. W zale¿noœci od charakteru konta , stan pocz¹tkowy, nazywany te z saldem pocz¹tkowym, mo¿e byæ naniesiony po stronie Wn lub Ma.
+   3. ksiêgowanie operacji gospodarczych – dokonywanie zapisów operacji gospodarczych, które uwzglêdniaj¹: datê operacji gospodarczej, numer i symbol dowodu ksiêgowego dokumentuj¹cego dan¹ operacjê gospodarcz¹, krótk¹ treœæ charakteryzuj¹c¹ dan¹ operacjê i wartoœæ tej operacji gospodarczej. Operacje gospodarcze zaksiêgowane po stronie Wn nosz¹ nazwê obrotów debetowych, a po stronie Ma – obrotów kredytowych. Ksiêgowanie operacji gospodarczych nie mo¿e powodowaæ naruszenia równowagi bilansowej. W zwi¹zku z tym w ewidencji ksiêgowej stosuje siê zasadê podwójnego zapisu, zgodnie z któr¹ ka¿da operacja musi byæ ujêta:
+
+-          na co najmniej dwóch kontach (podwójny zapis)
+
+-          na jednym koncie po stronie Wn, a na drugim po stronie Ma, czyli po przeciwnych stronach (dwustronny zapis)
+
+-          w identycznej wysokoœci na obu kontach (jednakowy zapis)
+
+Stosowanie zasady podwójnego zapisu prowadzi do relacji miêdzy kontami okreœlanej mianem korespondencji kont. Mo¿e ona przyjmowaæ postaæ:
+
+            a)zapisów prostych – tylko na dwóch kontach
+
+ 
+
+         Wn              X                 Ma                Wn              Y                 Ma
+
+3000                                 3000
+
+        
+
+           b)zapisów z³o¿onych – na wiêcej ni¿ dwóch kontach
+
+ 
+
+         Wn              X1               Ma                    Wn                     Y              Ma
+
+                                      800                     
+
+         Wn                X2               Ma                          3000
+
+                                      1200     
+
+ 
+
+   4. zamkniêcie konta – podsumowanie stron konta i ustalenie salda koñcowego. Zamkniêcie konta nastêpuje na koniec okresu sprawozdawczego poprzez:
+
+ustalenie obrotów konta (podsumowanie obu stron konta)
+
+-          ustalenie salda koñcowego (ró¿nica pomiêdzy obrotami konta):
+
+debetowego, je¿eli wiêksza jest suma na stronie Debet (Wn)
+
+kredytowego, gdy wiêksza jest suma na stronie Credit (Ma)
+
+zerowego, gdy sumy obrotów po obu stronach s¹ równe(saldo koñcowe nie wystêpuje)
+
+-          zapisanie salda koñcowego na stronie wykazuj¹cej mniejsz¹ sumê
+
+-          dwukrotne podkreœlenie zrównowa¿onych obrotów konta.
+
+Ustalone saldo koñcowe konta przenosi siê do bilansu zamkniêcia i stanowi ono jednoczeœnie saldo pocz¹tkowe tego konta w nastêpnym okresie sprawozdawczym.
+
+ 
+
+ 
+
+W rachunkowoœci ze wzglêdu na treœæ ekonomiczn¹ zapisów ksiêgowych wyró¿nia siê cztery kryteria podzia³u kont.
+
+ 
+
+Wed³ug kryterium stanu-ruchu maj¹tku podmiotu gospodarczego konta dzieli siê na:
+
+-          konta bilansowe – s³u¿¹ do ewidencji bilansowych operacji gospodarczych. Nale¿¹ do nich konta , których salda koñcowe na koniec okresu sprawozdawczego przenosi siê do bilansu. Dla ka¿dej pozycji bilansowej otwiera siê odrêbne konto, któremu nadaje siê nazwê, jak¹ ma ten sk³adnik, dla którego dane konto ma byæ prowadzone. Ka¿de konto odpowiada okreœlonemu sk³adnikowi bilansu. Podstawowym zadaniem kont bilansowych jest okreœlanie stanu i zmian œrodków gospodarczych oraz Ÿróde³ ich pochodzenia.
+
+-          konta wynikowe – s³u¿¹ do ewidencji wynikowych operacji gospodarczych, a wiêc takich, które odzwierciedlaj¹ procesy gospodarcze, zwi¹zane z osi¹ganiem zysku lub ponoszeniem straty. Salda kont wynikowych na koniec okresu sprawozdawczego przenosi siê do rachunku zysków i strat. Konta wynikowe nazywa siê te¿ kontami procesów lub kontami niebilansowymi.
+
+-          konta pozabilansowe – nie wystêpuj¹ w bilansie. S³u¿¹ do ewidencji zjawisk procesów gospodarczych, które nie s¹ przedmiotem ewidencji na kontach bilansowych.
+
+ 
+
+Wed³ug kryterium bilansowego konta dzieli siê na konta bilansowe aktywów i konta bilansowe pasywów. Konta bilansowe aktywne s³u¿¹ do ewidencji aktywów podmiotu gospodarczego(maj¹tku, œrodków gospodarczych).
+
+ 
+
+                                                                  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Zasady funkcjonowania konta bilansowego aktywnego
+
+Debet (Dt)                                                                                                   Credit(Ct)                  Winien (Wn)                                   konto bilansowe aktywne                                                 Ma
+
+(Sp) saldo pocz¹tkowe (debetowe)
+
+(+) zwiêkszenie stanu (obroty debetowe)
+   
+
+(-) zmniejszenie stanu (obroty kredytowe)
+
+Obroty debetowe ³¹cznie z Sp >                     
+   
+
+Obroty kredytowe
+
+Saldo koñcowe debetowe (Sk)
+
+Obroty konta (suma kontrolna)
+   
+
+= obroty konta (suma kontrolna)
+
+ 
+
+ 
+
+Konta bilansowe pasywne s³u¿¹ do ewidencji pasywów podmiotu gospodarczego (Ÿróde³ pochodzenia maj¹tku).
+
+ 
+
+Zasady funkcjonowania konta bilansowego pasywnego
+
+Debet (Dt)                                                                                                    Credit(Ct)
+Winien (Wn)                                    konto bilansowe pasywne                                                  Ma
+
+(-) zmniejszenie stanu (obroty debetowe)
+   
+
+(Sp) saldo pocz¹tkowe (kredytowe)
+
+(+) zwiêkszenie stanu (obroty kredytowe)
+
+Obroty debetowe <
+
+(Sk) saldo koñcowe kredytowe
+   
+
+Obroty kredytowe ³¹cznie z Sp
+
+ 
+
+Obroty konta (suma kontrolna)
+   
+
+= obroty konta (suma kontrolna)
+
+ 
+
+ 
+
+Wed³ug kryterium wspó³zale¿noœci kont (dotyczy tylko kont bilansowych) konta dzieli siê na konta podstawowe (g³ówne) i konta koryguj¹ce (pomocnicze). Konta koryguj¹ce maj¹ charakter pomocniczy i towarzysz¹ kontom podstawowym. Konto koryguj¹ce wydzielane jest z konta macierzystego (podstawowego) w wyniku podzielnoœci pionowej kont. Konto koryguj¹ce nie mo¿e wyst¹piæ, je¿eli nie dokonuje siê jednoczeœnie ewidencji na okreœlonym koncie podstawowym.
+
+ 
+
+Wed³ug kryterium szczegó³owoœci kont, konta dzieli siê na konta syntetyczne i konta analityczne. Zasada ta dotyczy wszystkich kont ksiêgowych. Odpowiadaj¹ jej dwie zasady dokonywania zapisów ksiêgowych:
+
+   1. zasada „zapisu podwójnego” na kontach syntetycznych, zgodnie z któr¹ ka¿da operacja gospodarcza musi byæ ujêta:
+
+-          na co najmniej dwóch kontach wspó³dzia³aj¹cych (podwójny zapis)
+
+-          na jednym koncie na stronie „debet” i na stronie „credit”, czyli po przeciwnych stronach (zapis dwustronny)
+
+-          w identycznej wartoœci na obu kontach (zapis jednakowy)
+
+   2. zasada „zapisu jednostronnie powtórzonego” na kontach analitycznych, która polega na powtórzonej rejestracji tej samej co do wartoœci sumy, na tej samej stronie konta analitycznego, na której wyst¹pi³ zapis na koncie syntetycznym.
+
+ 
+
+W praktyce wystêpuj¹ konta z³o¿one czyli „mieszane”, na przyk³ad konta bilansowe aktywno-pasywne i konta rozliczeniowe.
+
+Konta bilansowe aktywno-pasywne s³u¿¹ przede wszystkim do ewidencji rozrachunków. Pod pojêciem rozrachunków rozumie siê nale¿noœci (aktywa) i zobowi¹zania (pasywa). Saldo pocz¹tkowe na koncie aktywno-pasywnym mo¿e wyst¹piæ na stronie Wn lub na stronie Ma, a nawet na obu stronach konta jednoczeœnie.
+
+Konta rozliczeniowe mog¹ przyjmowaæ charakter zarówno kont bilansowych, jak i kont niebilansowych. Jest to uzale¿nione od tego, czy salda tych kont s¹ zamykane bilansem, czy te¿ maj¹ salda równe zeru. S¹ to konta charakteryzuj¹ce jakiœ proces gospodarczy lub umo¿liwiaj¹ce rozliczenie jakiegoœ procesu.
+
+ 
+
+Dziêki cechom podzielnoœci i ³¹czenia kont ksiêgowych, dostosowanie liczby kont do praktycznych potrzeb rachunkowoœci w podmiocie gospodarczym jest nieograniczone.
+
+Podzielnoœæ kont polega na powiêkszeniu liczby kont w celu uzyskania bardziej szczegó³owych informacji, dotycz¹cych poszczególnych œrodków gospodarczych, Ÿróde³ ich pochodzenia oraz procesów gospodarczych i wyników dzia³alnoœci podmiotów gospodarczych. Wyró¿niamy poziomy podzia³ kont i pionowy podzia³ kont. Poziomy podzia³ kont polega na podzieleniu konta na wiêksz¹ liczbê kont. Podzieleniu ulega przedmiot ewidencji konta syntetycznego na jego poszczególne sk³adniki i przeznaczeniu odrêbnych kont dla wyodrêbnionych w ten sposób sk³adników. Pionowy podzia³ kont polega na wyodrêbnieniu z konta dzielonego jego okreœlonych operacji gospodarczych i ewidencjonowaniu tych operacji  gospodarczych na samodzielnym i odrêbnym koncie. Podzia³owi mo¿e podlegaæ zarówno strona debetowa, jak i strona kredytowa konta dzielonego. Konto podlegaj¹ce podzia³owi okreœlane jest jako konto g³ówne, natomiast konta otrzymane z podzia³u – jako konta pomocnicze.
+
+£¹czenie kont jest procesem odwrotnym do podzielnoœci kont i polega na ³¹czeniu kont o tej samej lub zbli¿onej treœci ekonomicznej. £¹czenie kont dokonuje siê z regu³y przy likwidacji podmiotu gospodarczego, przy braku obrotów na kontach w ci¹gu d³u¿szego czasu, przy zmniejszaniu zbêdnej szczegó³owoœci kont.
+
+ 
+
+Ka¿dy podmiot gospodarczy ma ustawowy obowi¹zek sporz¹dzenia w³asnego zak³adowego planu kont. Zak³adowy plan kont stanowi usystematyzowany wykaz symboli i nazw kont ksiêgowych, s³u¿¹cych do ewidencji ogó³u posiadanych œrodków gospodarczych, Ÿróde³ ich pochodzenia, wszelkich nastêpuj¹cych w nim zmian oraz procesów gospodarczych, uzupe³niony komentarzem wyjaœniaj¹cym treœæ i wzajemne powi¹zania typowych zapisów ksiêgowych dokonywanych na tych kontach. Liczba i rodzaj kont ksiêgowych zawartych w planie zale¿y od wielkoœci podmiotu gospodarczego, od rodzaju prowadzonej dzia³alnoœci i od przyjêtej techniki ewidencji.
+
+ 
+
+ 
+
+ 
+
+Bibliografia :
+
+ 
+
+-          Jan i Piotr Matuszewicz „Rachunkowoœæ od podstaw w œwietle ustawy o rachunkowoœci”
+
+-          Józef Aleszczyk „Rachunkowoœæ finansowa od podstaw”
+
+-          Barbara Gierusz „Podrêcznik samodzielnej nauki ksiêgowania”
+_______________________________________________
+wiêcej materia³ów i notatek na  www.wkuwanko.pl<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/wkuwanko/domains/wkuwanko.pl/public_html/tpl/plik.php:122) in <b>/home/wkuwanko/domains/wkuwanko.pl/public_html/tpl/plik.php</b> on line <b>124</b><br />
